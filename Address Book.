@@ -1,0 +1,169 @@
+#declaring variables for each person in the class
+
+saName= "Shahood Alvi"
+saAge = 17.08
+saEmail = "267741@burlcoschools.org"
+saGrade = 11
+saLicense = False 
+
+mdName= "Muntag Diallo"
+mdAge = 16.13
+mdEmail = "268154@burlcoschools.org"
+mdGrade = 11
+mdLicense = False 
+
+rsName= "Ryan Stiles"
+rsAge = 17.08
+rsEmail = "267947@burlcoschools.org"
+rsGrade = 11
+rsLicense = True 
+
+mpName= "Marcos Paulino"
+mpAge = 16.7
+mpEmail = "267895@burlcoschools.org"
+mpGrade = 11
+mpLicense = False 
+
+arName= "Aidan Rodriguez"
+arAge = 17.17
+arEmail = "267922@burlcoschools.org"
+arGrade = 11
+arLicense = False
+
+gcName= "Gavin Carnivale"
+gcAge = 17.04
+gcEmail = "267764@burlcoschools.org"
+gcGrade = 11
+gcLicense = True 
+
+chName= "Christopher Hodson"
+chAge = 17.08
+chEmail = "268359@burlcoschools.org"
+chGrade = 11
+chLicense = False 
+
+ncName= "Nathan Carn"
+ncAge = 16.98
+ncEmail = "268021@burlcoschools.org"
+ncGrade = 11
+ncLicense = False 
+
+lhName= "Leo Hart"
+lhAge = 17.02
+lhEmail = "268095@burlcoschools.org"
+lhGrade = 11
+lhLicense = True
+
+mbName= "Mason Bush"
+mbAge = 17.08
+mbEmail = "268262@burlcoschools.org"
+mbGrade = 11
+mbLicense = False
+
+
+jrName= "Jaiden Rankus"
+jrAge = 16.44
+jrEmail = "268188@burlcoschools.org"
+jrGrade = 11
+jrLicense = False
+
+#printing information of each person
+
+print("----------------------------------")
+print("Name: " + saName)
+print("Age: " + str(saAge))
+print("Email: " + saEmail)
+print("Grade: " + str(saGrade))
+print("License?: " + str(saLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + mdName)
+print("Age: " + str(mdAge))
+print("Email: " + mdEmail)
+print("Grade: " + str(mdGrade))
+print("License?: " + str(mdLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + rsName)
+print("Age: " + str(rsAge))
+print("Email: " + rsEmail)
+print("Grade: " + str(rsGrade))
+print("License?: " + str(rsLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + mpName)
+print("Age: " + str(mpAge))
+print("Email: " + mpEmail)
+print("Grade: " + str(mpGrade))
+print("License?: " + str(mpLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + arName)
+print("Age: " + str(arAge))
+print("Email: " + arEmail)
+print("Grade: " + str(arGrade))
+print("License?: " + str(arLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + gcName)
+print("Age: " + str(gcAge))
+print("Email: " + gcEmail)
+print("Grade: " + str(gcGrade))
+print("License?: " + str(gcLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + chName)
+print("Age: " + str(chAge))
+print("Email: " + chEmail)
+print("Grade: " + str(chGrade))
+print("License?: " + str(chLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + ncName)
+print("Age: " + str(ncAge))
+print("Email: " + ncEmail)
+print("Grade: " + str(ncGrade))
+print("License?: " + str(ncLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + lhName)
+print("Age: " + str(lhAge))
+print("Email: " + lhEmail)
+print("Grade: " + str(lhGrade))
+print("License?: " + str(lhLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print ("Name: " + mbName)
+print("Age: " + str(mbAge))
+print("Email: " + mbEmail)
+print("Grade: " + str(mbGrade))
+print("License?: " + str(mbLicense))
+print("----------------------------------")
+print()
+
+print("----------------------------------")
+print("Name: " + jrName)
+print("Age: " + str(jrAge))
+print("Email: " + jrEmail)
+print("Grade: " + str(jrGrade))
+print("License?: " + str(jrLicense))
+print("----------------------------------")
+print()
